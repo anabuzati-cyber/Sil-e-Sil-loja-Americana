@@ -1,0 +1,43 @@
+import { 
+  Menu, 
+  X, 
+  ChevronDown, 
+  Star, 
+  Heart, 
+  Truck, 
+  Percent, 
+  Check, 
+  Phone,
+  Instagram,
+  MapPin,
+  Clock,
+  ArrowRight,
+  MessageCircle,
+  ChevronLeft,
+  ChevronRight,
+  ChefHat,
+  Cake,
+  Store
+} from 'lucide-react';
+
+export { 
+  Menu, 
+  X, 
+  ChevronDown, 
+  Star, 
+  Heart, 
+  Truck, 
+  Percent, 
+  Check, 
+  Phone,
+  Instagram,
+  MapPin,
+  Clock,
+  ArrowRight,
+  MessageCircle,
+  ChevronLeft,
+  ChevronRight,
+  ChefHat,
+  Cake,
+  Store
+};
