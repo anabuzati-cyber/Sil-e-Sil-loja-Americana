@@ -29,7 +29,7 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col items-start gap-4 text-sm">
             <div className="flex items-start justify-start gap-2 max-w-xs md:max-w-sm">
               <MapPin size={16} className="mt-0.5 flex-shrink-0 text-yellow-400" />
-              <span><strong className="text-amber-100">Loja Americana - SP:</strong> Av. Brasil, 1750 - Santo Antonio, Americana - SP, 13465-770</span>
+              <span><strong className="text-amber-100">Loja Americana - SP:</strong> Av. Brasil, 1750 - Vila Frezzarin, Americana - SP, 13465-770</span>
             </div>
           </div>
 

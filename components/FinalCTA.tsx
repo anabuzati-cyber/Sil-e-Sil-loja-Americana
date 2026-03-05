@@ -3,7 +3,7 @@ import { Wave } from './ui/Wave';
 
 export const FinalCTA: React.FC = () => {
   const openWhatsApp = () => {
-    window.open('https://api.whatsapp.com/send/?phone=5519997264036&text=Ol%C3%A1%21+Gostaria+de+fazer+um+pedido', '_blank');
+    window.open('https://pedido.anota.ai/', '_blank');
   };
 
   return (

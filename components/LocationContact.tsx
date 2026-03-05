@@ -41,7 +41,7 @@ export const LocationContact: React.FC = () => {
                 <div>
                   <h3 className="font-serif font-bold text-2xl text-chocolate-900 mb-2">Localização</h3>
                   <p className="text-chocolate-800 text-lg leading-relaxed">
-                    Av. Brasil, 1750 - Santo Antonio<br/>
+                    Av. Brasil, 1750 - Vila Frezzarin<br/>
                     Americana - SP, 13465-770
                   </p>
                 </div>
