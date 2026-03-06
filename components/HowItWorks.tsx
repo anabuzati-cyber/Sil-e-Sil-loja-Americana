@@ -40,7 +40,7 @@ export const HowItWorks: React.FC = () => {
   const getNextIndex = () => (currentIndex + 1) % images.length;
 
   const openWhatsApp = () => {
-    window.open('https://pedido.anota.ai/', '_blank');
+    window.open('https://pedido.anota.ai/loja/bolos-sil-sil-americana?f=ms', '_blank');
   };
 
   return (

@@ -20,7 +20,7 @@ export const Gallery: React.FC = () => {
   ];
 
   const openWhatsApp = () => {
-    window.open('https://pedido.anota.ai/', '_blank');
+    window.open('https://pedido.anota.ai/loja/bolos-sil-sil-americana?f=ms', '_blank');
   };
 
   return (
